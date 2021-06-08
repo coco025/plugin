@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin name="HelloWorld" spec="https://github.com/coco025/plugin.git" id="cordova-plugin-hello-world" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin name="cordova-plugin-hello-world" spec="https://github.com/coco025/plugin.git" id="cordova-plugin-hello-world" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 <name>HelloWorld</name>
 <js-module name="HelloWorld" src="www/HelloWorld.js">
 <clobbers target="cordova.plugins.HelloWorld" />
